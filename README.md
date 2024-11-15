@@ -1,6 +1,6 @@
 # AssignmentModule6
-Fashion MNIST Classification Using Keras in R
-=============================================
+Fashion MNIST Classification Using Keras in Python
+==================================================
 
 Project Overview
 ----------------
